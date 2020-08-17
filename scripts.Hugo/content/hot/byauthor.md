@@ -23,6 +23,7 @@ categories:
 {{< mydiv4o text="youtube_個人意見獨立思考" link="/byauthor/278539d3e272f77cdd6676aa4bfa4f2d/index.html">}}
 {{< mydiv4o text="youtube_冬天的冬" link="/byauthor/3ac847590a7313aa488658c230ce2037/index.html">}}
 {{< mydiv4o text="youtube_城寨_singjai" link="/byauthor/137c0c40b21b8b71f099b0928484f5e7/index.html">}}
+{{< mydiv4o text="youtube_廣傳媒media_analytica" link="/byauthor/5d0615e41cbced0967785027daa9dfab/index.html">}}
 {{< mydiv4o text="youtube_新唐人亞太電視台ntdaptv" link="/byauthor/58b671d272c14879c3b582290ddd068b/index.html">}}
 {{< mydiv4o text="youtube_有線電視_cable_tv_&_有線新聞_cable_news" link="/byauthor/3563ac488a2fa8e1d3e4424a67a608b8/index.html">}}
 {{< mydiv4o text="youtube_李慧玲live" link="/byauthor/5334e69dc5c7b44ea22ac144c3f96887/index.html">}}
