@@ -16,6 +16,7 @@ categories:
 {{< mydiv4o text="youtube_ng_sam" link="/byauthor/8b24f016734104b815ccd1084f1e2c41/index.html">}}
 {{< mydiv4o text="youtube_people_power" link="/byauthor/9c327b765b881e729b7a7c32b3c455c2/index.html">}}
 {{< mydiv4o text="youtube_victor_ng_ming_tak" link="/byauthor/042189f7a73f7a34cf60056269b225bb/index.html">}}
+{{< mydiv4o text="youtube_個人意見獨立思考" link="/byauthor/278539d3e272f77cdd6676aa4bfa4f2d/index.html">}}
 {{< mydiv4o text="youtube_冬天的冬" link="/byauthor/3ac847590a7313aa488658c230ce2037/index.html">}}
 {{< mydiv4o text="youtube_新唐人亞太電視台ntdaptv" link="/byauthor/58b671d272c14879c3b582290ddd068b/index.html">}}
 {{< mydiv4o text="youtube_有線電視_cable_tv_&_有線新聞_cable_news" link="/byauthor/3563ac488a2fa8e1d3e4424a67a608b8/index.html">}}
